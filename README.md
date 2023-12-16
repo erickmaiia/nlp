@@ -1,0 +1,1 @@
+# This repository was created with the aim of answering some questions about an NLP file used as training in a short course.
